@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">MultiActivity</string>
+    <string name="next">ウェブへ</string>
+    <string name="second">SecondActivityです</string>
+
+</resources>
